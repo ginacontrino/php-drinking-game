@@ -1,0 +1,4 @@
+suites:
+    acme_suite:
+        namespace: Gina\DrinkingGame
+        psr4_prefix: Gina\DrinkingGame
